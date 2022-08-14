@@ -70,3 +70,19 @@ pubg|98$|Top2
 [Bilibili弹幕网](http://www.bilibili.com "点击进入b站")
 [百度搜索](http://www.baidu.com "点击进入百度")
 
+##插入代码片段
+
+```c
+#include <stdio.h>
+int main(void)
+{
+     printf("testing ...\n");
+     return 0;
+
+}
+```
+
+```cpp
+#include<iostream>
+using namespace std;
+```

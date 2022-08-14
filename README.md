@@ -64,3 +64,9 @@
 LOL|88$|Top1
 pubg|98$|Top2
 原神|free|Top3
+
+##超链接
+
+[Bilibili弹幕网](http://www.bilibili.com "点击进入b站")
+[百度搜索](http://www.baidu.com "点击进入百度")
+
